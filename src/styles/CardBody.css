@@ -1,0 +1,118 @@
+.container-body{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 692px;
+height: 548px;
+left: 196px;
+top: 404px;
+
+background: #FFFFFF;
+border-radius: 15px;
+}
+
+.container-body__name{
+        /* Yarriba Castro */
+
+position: absolute;
+width: 328px;
+height: 62px;
+left: 386px;
+top: 567px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 62px;
+
+color: #000000;
+}
+
+.container-body__prof{
+    /* Design Track */
+
+position: absolute;
+width: 224px;
+height: 47px;
+left: 438px;
+top: 629px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+}
+
+.container-body__description{
+/* I chose design track because I love to design beautiful user-centered interfaces. */
+
+position: absolute;
+width: 426px;
+height: 93px;
+left: 337px;
+top: 723px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+
+
+
+}
+
+.container-body__in{
+    /* Yaretas24 */
+
+position: absolute;
+width: 67px;
+height: 18px;
+left: 475px;
+top: 894px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+
+color: #000000;
+display: flex;
+
+
+
+}
+
+.container-body__insta{
+    /* Yaretas24 */
+
+position: absolute;
+width: 67px;
+height: 18px;
+left: 597px;
+top: 893px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+
+color: #000000;
+display: flex;
+
+
+    
+}

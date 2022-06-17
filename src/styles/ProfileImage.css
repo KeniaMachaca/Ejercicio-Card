@@ -1,0 +1,29 @@
+.container-border{
+/* Ellipse 2 */
+
+position: absolute;
+width: 305px;
+height: 305px;
+left: 389px;
+top: 252px;
+
+background: #F1EAEA;
+border-radius: 50%;
+}
+
+.container-image{
+    
+
+    /* Ellipse 1 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 398px;
+top: 261px;
+
+background: url(../assets/Ellipse.svg);
+
+
+
+}
